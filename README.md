@@ -17,3 +17,9 @@ This repository contains the tasks completed during the CodSoft Data Science Int
 4.Matplotlib
 5.Scikit-Learn
 6.Jupyter Notebook
+
+# Dataset Used
+1.Titanic Dataset 
+2.IMDb Movies India Dataset 
+3.Iris Dataset 
+4.Credit Card Fraud Dataset
